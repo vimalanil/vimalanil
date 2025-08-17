@@ -58,4 +58,4 @@
 
 ---
 
-> 🧠 _“Security is not a product, but a process.”_ – Bruce Schneier
+> 🧠 _“think before you click.”_ 

@@ -1,9 +1,6 @@
 <h1 align="center">Hi 👋, I'm VIMAL ANIL</h1>
 <h3 align="center">Developer | Cybersecurity Enthusiast | VAPT</h3>
 
-<p align="center">
-  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExczVuenVzOWh6YTlqbHgycHdpb3hyOWd1eDNkMm0waWtlZDF0NTluMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/hv13U4h8Y7hEdCQ0Ik/giphy.gif" alt="Cybersecurity GIF" width="500" style="border: 2px solid #000;" />
-</p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=vimalanil&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
